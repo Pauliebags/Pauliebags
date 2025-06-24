@@ -12,7 +12,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/paul-fitzpatrick-a8832092/)
 - 📧 Email me: **paulfitzpatrick93@hotmail.co.uk**
 - 💙 Flutter Developer: Crafting stunning apps with Dart & Flutter
-- 💻 Fun fact: I spend approximately 14 hours coding every day!
+- 💻 Fun fact: I spend approximately 10 hours coding every day!
 
 ---
 
